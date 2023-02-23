@@ -171,12 +171,11 @@ nav ul li a{
 }
 .social-handle li{
     margin: 0 10px;
+}
+.footer-content .social-handle{
     color: #cacdd2;
 }
-.socials-handle a{
+.footer-content .social-handle a{
+    color: #cacdd2;
     text-decoration: none;
-    color: #fff;
-    border: 1.1px solid white;
-    padding: 5px;
-    border-radius: 50%;
 }

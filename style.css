@@ -81,12 +81,13 @@ nav ul li a{
 
 #hello{
     color: coral;
-    font-size: 80px;
+    font-size: 90px;
 }
 
 #explore{
     text-decoration: none;
-    padding: 5px;
+    padding: 10px;
+    padding-top: 0px;
     border: 50px;
     color: #f5f5f5;
     background-color: rgb(131, 212, 138);
@@ -110,6 +111,22 @@ nav ul li a{
     border-radius: 5%;
 }
 
+#two{
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 5%;
+}
+
+#three{
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 5%;
+}
+#four{
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 5%;
+}
 #section3{
     border: 2px solid white;
     border-radius: 50px;
@@ -146,15 +163,15 @@ nav ul li a{
 }
 
 .social-handle{
-    color: #cacdd2;
-    list-style: none;
     display: flex;
+    list-style: none;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 3rem 0;
+    text-decoration: none;
 }
 .social-handle li{
     margin: 0 10px;
+    color: #cacdd2;
 }
 .socials-handle a{
     text-decoration: none;
